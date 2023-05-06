@@ -16,7 +16,7 @@
 🌱 I’m currently learning : Node.js, js, html5, css, and more
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-C90ee8?logo=instagram&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Spotify](https://img.shields.io/badge/Spotify-%02af1c.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/n4nzgd4mb1ltoxijrg266ib5k?si=2de7633eef994c4d) [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=Steam&logoColor=white)](https://steamcommunity.com/id/SaltyLTS/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQfaZiF-OHZCX_BgOAhV3ZA)
+[![Instagram](https://img.shields.io/badge/Instagram-C90ee8?logo=instagram&logoColor=white)](https://instagram.com/SaltyLTS/) [![Spotify](https://img.shields.io/badge/Spotify-%02af1c.svg?logo=Spotify&logoColor=white)](https://open.spotify.com/user/n4nzgd4mb1ltoxijrg266ib5k?si=2de7633eef994c4d) [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=Steam&logoColor=white)](https://steamcommunity.com/id/SaltyLTS/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQfaZiF-OHZCX_BgOAhV3ZA) [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=atandt&logoColor=blue)](https://salty.zip/)
 <br />
 [![Discord Presence](https://lanyard.cnrad.dev/api/772077547005542450)](https://discord.com/users/772077547005542450)
 
